@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+  height: 100%vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* input[type="text"]#search-name {
+  
+} */
+
+.container .label-class {
+  z-index: 1;
+  position: absolute;
+  /* display: block; */
+  padding: 0.9rem;
+  font-size: 1rem;
+  line-height: 1;
+  color: #666d80;
+}
+
+.container .label-class .space-class {
+  visibility: hidden;
+  margin-right: -0.1rem !important;
+}

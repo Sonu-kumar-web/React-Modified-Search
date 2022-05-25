@@ -1,9 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
+import "./index.css";
 
-// console.log("App", App());
-// console.log("App", <App/>);
+// console.log("App-function", App());
+// console.log("App-render", <App />);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
