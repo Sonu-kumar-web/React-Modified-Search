@@ -17,8 +17,8 @@ function App() {
     >
       Modified Search box
     </Button>,
-    <Button key="two" onClick={() => setComponent("Coming Soon !!!")}>
-      Coming soon!!!
+    <Button key="two" onClick={() => setComponent("Coming Soon!!!")}>
+      Coming Soon!!!
     </Button>,
   ];
 
