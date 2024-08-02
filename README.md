@@ -1,5 +1,5 @@
 # Demo
-#[Demo](https://react-modified-search-git-main-sonu-kumars-projects-07bf1f06.vercel.app/){:target="_blank"}
+#[Demo](https://react-modified-search-git-main-sonu-kumars-projects-07bf1f06.vercel.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
