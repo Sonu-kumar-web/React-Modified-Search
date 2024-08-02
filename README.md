@@ -1,5 +1,5 @@
 # Demo
-<a href="https://react-modified-search-git-main-sonu-kumars-projects-07bf1f06.vercel.app/" target="blank" >Demo</a>
+# [Demo](https://react-modified-search-git-main-sonu-kumars-projects-07bf1f06.vercel.app/)
 
 # Getting Started with Create React App
 
