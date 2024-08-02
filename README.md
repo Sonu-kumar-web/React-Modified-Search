@@ -1,4 +1,3 @@
-# Demo
 # [Demo](https://react-modified-search-git-main-sonu-kumars-projects-07bf1f06.vercel.app/)
 
 # Getting Started with Create React App
